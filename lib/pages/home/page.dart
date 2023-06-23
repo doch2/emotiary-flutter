@@ -85,7 +85,7 @@ class HomePage extends GetView<HomePageController> {
                                     children: [
                                       ExtendedImage.asset("assets/images/${diaryData.emoji!.ENG}.png", width: 32),
                                       const SizedBox(width: 8),
-                                      Text(diaryData.title!, style: list_diaryTitle)
+                                      Text((diaryData.title!.length < 14 ? diaryData.title! : "${diaryData.title!.substring(0, 13)}.."), style: list_diaryTitle)
                                     ],
                                   ),
                                   const SizedBox(height: 18),
