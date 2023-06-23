@@ -1,16 +1,11 @@
-# emotialy
+# Emoit-ary (이모셔리) - Application Backend
+## Emotion(감정) + Diary(일기)의 합성어
 
-A new Flutter project.
+2023학년도 1학기 한국디지털미디어고등학교 응용프로그래밍개발 과목 프로젝트 수행평가로 제작된 서비스입니다.
 
-## Getting Started
+오늘 하루를 정리하는 일기를 위해 많은 글을 작성하기 귀찮은 현대인을 위해,
+간단한 감정만으로 쉽게 일기를 기록할 수 있는 서비스입니다.
 
-This project is a starting point for a Flutter application.
+Flutter를 활용한 Service Application Repository입니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+기획부터 개발완료까지, 4시간 소요
